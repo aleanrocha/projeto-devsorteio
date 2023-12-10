@@ -1,4 +1,4 @@
-# Conversor de Moeda
+# Sorteador de Números
 
 ![devsorteio](https://github.com/aleanrocha/projeto-devsorteio/assets/109040443/c3392e1b-b782-421c-9478-1e1248a2c658)
 
